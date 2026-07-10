@@ -1,3 +1,81 @@
 # Notes
 
 This folder contains my learning notes for AWS Cloud Engineering.
+# Day 1 - Cloud Computing Fundamentals
+
+## Date
+10 July 2026
+
+## Topics Covered
+- Client–Server Model
+- Pay-as-You-Go Pricing
+- Introduction to AWS
+- Why Cloud Computing (Basic Idea)
+
+---
+
+## Main Notes
+
+- Before cloud computing, companies had to buy and maintain their own physical servers. This was expensive and difficult to scale.
+- In the client–server model, the **client** is the device or application (such as a phone, browser, or app) that sends a request. The **server** receives the request, processes it, and sends back a response.
+- The human is the **user**, not the client. The client is usually the application or device used by the user.
+- Example:
+  - Netflix app on my phone → Client
+  - Netflix servers → Server
+  - Chrome browser → Client
+  - The website's server (Google, Amazon, etc.) → Server
+- AWS provides cloud servers that businesses can rent instead of buying physical servers.
+- AWS follows a **Pay-as-You-Go** pricing model. This means I pay only for the cloud resources I actually use. When I stop using them, I stop paying.
+- During high traffic, AWS can provide more resources (if configured, for example with Auto Scaling). When traffic decreases, those extra resources can be removed, helping reduce costs.
+- AWS servers are not only used for storage. They can process requests, run applications, store data, and send responses to clients.
+
+---
+
+## Cue Questions
+
+1. What is the client–server model?
+2. Who is the client and who is the server in the Netflix example?
+3. Is the human the client or the user?
+4. Why was buying physical servers a problem?
+5. What does "Pay-as-You-Go" mean in AWS?
+6. How does AWS help businesses during traffic spikes?
+
+---
+
+## My Answers (Active Recall)
+
+1. The client–server model is a system where the client sends a request to a server, and the server processes the request and sends back a response.
+2. In Netflix, the Netflix app (or my phone running the app) is the client, and Netflix's servers are the server.
+3. The human is the **user**. The phone, browser, or app is the **client**.
+4. Physical servers are expensive to buy, take time to set up, and companies must pay for them even when they are idle.
+5. Pay-as-You-Go means I only pay for the AWS resources I actually use. When I stop using them, I stop paying.
+6. AWS can increase resources during high demand and reduce them when demand decreases (when services like Auto Scaling are configured).
+
+---
+
+## Concepts I Didn't Understand
+
+- Scalability *(Will learn in upcoming lessons.)*
+- Elasticity *(Will learn in upcoming lessons.)*
+
+---
+
+## Summary
+
+Today I learned the foundation of cloud computing: the client–server model. I now understand that the client is usually a device or application that sends requests, while the server processes those requests and sends responses. I also learned that AWS lets businesses rent computing resources instead of buying physical servers, following a Pay-as-You-Go model that helps save money and scale with demand.
+
+---
+
+## Interview Definition
+
+### Client–Server Model
+A client–server model is a computing architecture in which a client (device or application) sends requests to a server, and the server processes those requests and returns the appropriate response.
+
+### Pay-as-You-Go
+AWS follows a pay-as-you-go pricing model, where customers pay only for the cloud resources they consume and stop paying when those resources are no longer in use.
+
+---
+
+## Progress
+
+✅ Completed
