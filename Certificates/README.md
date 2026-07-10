@@ -1,3 +1,3 @@
 # Certificates
 
-AWS and other certifications.
+AWS and other certifications..
