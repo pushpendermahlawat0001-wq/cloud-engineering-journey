@@ -1,3 +1,3 @@
 # Screenshots
 
-Screenshots of completed labs and projects.
+Screenshots of completed labs and projects..
