@@ -20,6 +20,11 @@ Become an AWS Cloud Engineer by building real-world projects and mastering cloud
 - Architecture Diagrams
 - Certificates
 
+- ## 📚 Skills Learned
+
+- Client-Server Architecture
+- Pay-as-You-Go Pricing
+
 ## 🚀 Status
 Day 1 - Started AWS Cloud Journey
 ## 🚀 Current Progress
