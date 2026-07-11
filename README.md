@@ -40,7 +40,7 @@ Become an AWS Cloud Engineer by building real-world projects and mastering cloud
 - ✅ AWS Cloud Fundamentals
 
 ## 🚀 Status
-Day 1 - Started AWS Cloud Journey
+Day 1 - Started AWS Cloud Journey  
 Day 2 – Cloud Computing Fundamentals & Deployment Models
 ## 🚀 Current Progress
 
