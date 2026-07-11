@@ -20,15 +20,31 @@ Become an AWS Cloud Engineer by building real-world projects and mastering cloud
 - Architecture Diagrams
 - Certificates
 
-- ## 📚 Skills Learned
+## 📚 Skills Learned
 
-- Client-Server Architecture
-- Pay-as-You-Go Pricing
+### Cloud Fundamentals
+- ✅ Client-Server Architecture
+- ✅ Cloud Computing
+- ✅ IT Resources
+- ✅ On-Demand Delivery
+- ✅ Pay-as-You-Go Pricing
+- ✅ Data Centers
+- ✅ Cloud Deployment Models
+- ✅ Cloud vs On-Premises
+- ✅ Hybrid Cloud
+- ✅ Multi-cloud
+- ✅ Latency
+
+### AWS Concepts
+- ✅ AWS Basic History
+- ✅ AWS Cloud Fundamentals
 
 ## 🚀 Status
 Day 1 - Started AWS Cloud Journey
+Day 2 – Cloud Computing Fundamentals & Deployment Models
 ## 🚀 Current Progress
 
 - ✅ Day 1 – Client-Server Model & Pay-as-You-Go
-- ⏳ Currently Learning: Cloud Computing Fundamentals
-- 🎯 Next Topic: What is Cloud Computing?
+- ✅ Day 2 – Cloud Computing Fundamentals & Deployment Models
+- ⏳ Currently Learning: AWS Global Infrastructure
+- 🎯 Next Topic: AWS Global Infrastructure
