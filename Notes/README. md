@@ -79,3 +79,144 @@ AWS follows a pay-as-you-go pricing model, where customers pay only for the clou
 ## Progress
 
 ✅ Completed.
+
+# Day 2 - What is Cloud Computing?
+
+## Date
+11 July 2026
+
+## Topics Covered
+- History of AWS (Basic)
+- What is Cloud Computing?
+- IT Resources
+- On-Demand Delivery
+- Over the Internet
+- Pay-as-You-Go Pricing
+- Data Centers
+- Latency
+- Cloud Deployment Types
+  - Cloud
+  - On-Premises
+  - Hybrid
+  - Multi-cloud
+
+---
+
+## Main Notes
+
+Cloud computing exists because buying and managing physical infrastructure is expensive, time-consuming, and difficult to scale. Instead of owning servers and data centers, companies can rent IT resources from cloud providers like AWS.
+
+AWS Definition:
+
+**Cloud Computing is the on-demand delivery of IT resources over the internet with pay-as-you-go pricing.**
+
+### IT Resources
+IT resources are the building blocks required to build and run applications.
+
+Examples:
+- Servers (Compute)
+- Storage
+- Databases
+- Networking
+- AI/ML Services
+
+### On-Demand Delivery
+Resources are available whenever needed without waiting for hardware purchasing, delivery, or installation.
+
+### Over the Internet
+Cloud resources are accessed remotely through an internet connection. The data is stored inside physical AWS data centers, not in the sky.
+
+### Pay-as-You-Go
+Customers pay only for the resources they actually use. When resources are deleted (deprovisioned), billing stops.
+
+### Data Centers
+A data center is a building (or group of buildings) containing servers and networking equipment used to store data and run applications.
+
+A data center contains:
+- Servers
+- Storage Systems
+- Networking Equipment
+- Cooling Systems
+- Backup Power
+- Physical Security
+
+AWS manages the physical infrastructure while customers manage their cloud resources.
+
+### Latency
+Latency is the time taken for data to travel from one place to another. It is usually measured in milliseconds (ms).
+
+### Cloud Deployment Types
+
+**Cloud**
+- Everything runs in the cloud.
+- No physical infrastructure to manage.
+
+**On-Premises**
+- Everything runs in the company's own data center.
+- Complete control and low latency.
+- Suitable for regulatory requirements.
+
+**Hybrid**
+- Some resources stay on-premises while others run in the cloud.
+
+**Multi-cloud**
+- Uses multiple cloud providers such as AWS, Azure, and Google Cloud.
+
+---
+
+## Cue Questions
+
+1. Why did cloud computing become necessary?
+2. What is cloud computing?
+3. What are IT resources?
+4. What does On-Demand Delivery mean?
+5. What does Over the Internet mean?
+6. What is Pay-as-You-Go pricing?
+7. What is a Data Center?
+8. What is Latency?
+9. What are the different cloud deployment types?
+10. Why do some companies still choose On-Premises?
+
+---
+
+## My Answers (Active Recall)
+
+1. Cloud computing became necessary because buying and maintaining physical infrastructure was expensive, difficult to scale, and required continuous maintenance. Cloud providers allow companies to rent IT resources instead.
+
+2. Cloud computing is the on-demand delivery of IT resources over the internet with pay-as-you-go pricing.
+
+3. IT resources are the components required to build and run applications, such as servers, storage, databases, networking, and AI/ML services.
+
+4. On-Demand Delivery means IT resources are available whenever they are needed without lengthy purchasing or installation processes.
+
+5. Over the Internet means cloud resources can be accessed remotely through an internet connection instead of physically visiting a data center.
+
+6. Pay-as-You-Go means customers only pay for the resources they actually use and stop paying after deprovisioning them.
+
+7. A Data Center is a building containing servers, storage, networking equipment, cooling systems, backup power, and security used to run applications and store data.
+
+8. Latency is the time taken for data to travel from one place to another. It is usually measured in milliseconds (ms).
+
+9. Cloud = Everything in the cloud.
+   On-Premises = Everything in the company's own data center.
+   Hybrid = Combination of cloud and on-premises.
+   Multi-cloud = Using multiple cloud providers.
+
+10. Companies choose On-Premises for complete control, low latency, dedicated resources, or regulatory requirements.
+
+---
+
+## Concepts I Didn't Understand
+
+None
+---
+
+## Summary
+
+Cloud computing allows businesses to use IT resources without owning physical infrastructure. AWS provides servers, storage, networking, databases, and many other services over the internet using a pay-as-you-go model. These resources are hosted inside physical AWS data centers. Depending on business needs, applications can be deployed using cloud, on-premises, hybrid, or multi-cloud models.
+
+---
+
+## Interview Definition
+
+Cloud computing is the on-demand delivery of IT resources over the internet with pay-as-you-go pricing. It enables organizations to provision computing resources such as servers, storage, databases, and networking whenever required without owning physical infrastructure.
