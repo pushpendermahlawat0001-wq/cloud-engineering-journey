@@ -220,3 +220,184 @@ Cloud computing allows businesses to use IT resources without owning physical in
 ## Interview Definition
 
 Cloud computing is the on-demand delivery of IT resources over the internet with pay-as-you-go pricing. It enables organizations to provision computing resources such as servers, storage, databases, and networking whenever required without owning physical infrastructure.
+
+# Day 3 - Benefits of Cloud Computing (AWS)
+
+## Date
+13 July 2026
+
+## Topics Covered
+- Trade Fixed Expense for Variable Expense
+- Benefit from Massive Economies of Scale
+- Stop Guessing Capacity
+- Scalability
+- Elasticity
+- Increase Speed and Agility
+- Stop Spending Money Running and Maintaining Data Centers
+- Go Global in Minutes
+
+---
+
+# Main Notes
+
+## Trade Fixed Expense for Variable Expense
+
+Traditional on-premises infrastructure requires a large upfront investment to purchase servers, networking equipment, storage, buildings, cooling systems, and hire IT staff. These are fixed expenses because they must be paid regardless of how much the infrastructure is used.
+
+AWS changes this model by allowing businesses to rent IT resources and pay only for what they actually use. This converts fixed expenses into variable expenses, reducing financial risk and allowing businesses to invest saved money into product development, marketing, hiring, or business growth.
+
+---
+
+## Benefit from Massive Economies of Scale
+
+Economies of Scale means the cost per item becomes lower when purchasing in large quantities.
+
+AWS buys servers, networking equipment, storage devices, and hardware in massive quantities. Because of this, hardware manufacturers offer AWS lower prices.
+
+AWS passes part of these savings to customers, allowing even small startups to access enterprise-level infrastructure at affordable prices.
+
+---
+
+## Stop Guessing Capacity
+
+In traditional data centers, businesses had to predict future demand before buying infrastructure.
+
+If they overestimated demand, they wasted money on unused servers.
+
+If they underestimated demand, their applications could become slow or unavailable, leading to poor customer experience.
+
+AWS eliminates this problem by allowing businesses to provision resources whenever needed and remove them when demand decreases.
+
+---
+
+## Scalability
+
+Scalability is the ability of a system to increase or decrease its capacity by adding or removing resources.
+
+It answers the question:
+
+Can the system grow or shrink to handle changing workloads?
+
+Example:
+A shopping website normally handles 1,000 users. During a festival sale it receives 50,000 users. More servers can be added to increase capacity.
+
+Scalability can increase or decrease resources depending on business needs.
+
+---
+
+## Elasticity
+
+Elasticity is the ability of a system to automatically add or remove resources based on real-time demand.
+
+It answers the question:
+
+Can resource changes happen automatically without manual intervention?
+
+Example:
+A website receives a sudden traffic spike at midnight. AWS automatically launches additional servers and removes them after traffic decreases.
+
+---
+
+## Increase Speed and Agility
+
+AWS allows businesses to create infrastructure within minutes instead of waiting weeks or months for physical hardware.
+
+Businesses can quickly build, test, modify, deploy, and delete applications without making large upfront investments.
+
+This allows companies to innovate faster and respond quickly to changing customer needs.
+
+---
+
+## Stop Spending Money Running and Maintaining Data Centers
+
+Businesses no longer need to manage physical infrastructure themselves.
+
+AWS is responsible for:
+- Physical servers
+- Storage hardware
+- Networking equipment
+- Cooling systems
+- Power supply
+- Hardware replacement
+- Physical security
+
+Businesses can focus on building applications instead of maintaining infrastructure.
+
+---
+
+## Go Global in Minutes
+
+AWS has infrastructure around the world.
+
+Businesses can deploy applications in AWS Regions close to their customers without building their own data centers in every country.
+
+This reduces expansion time from months or years to minutes while improving customer experience through lower latency.
+
+---
+
+# Cue Questions
+1. What is the difference between fixed expenses and variable expenses?
+2. What are Economies of Scale?
+3. Why do businesses no longer need to guess capacity with AWS?
+4. What is Scalability?
+5. What is Elasticity?
+6. What is the difference between Scalability and Elasticity?
+7. How does AWS increase Speed and Agility?
+8. Why do businesses use AWS instead of maintaining their own data centers?
+9. What responsibilities does AWS manage?
+10. What does Go Global in Minutes mean?
+
+---
+
+# My Answers (Active Recall)
+
+1. Fixed expenses are costs that must be paid regardless of usage, such as purchasing servers and maintaining a data center. Variable expenses depend on actual usage, and with AWS businesses pay only for the resources they consume.
+
+2. Economies of Scale means the cost per item decreases when buying in large quantities. AWS purchases hardware in bulk, receives discounts, and passes part of those savings to customers.
+
+3. AWS provides on-demand resources along with scalability and elasticity, allowing businesses to increase or decrease infrastructure whenever required instead of predicting future demand.
+
+4. Scalability is the ability of a system to increase or decrease its capacity by adding or removing resources according to workload.
+
+5. Elasticity is the ability of a system to automatically add or remove resources based on real-time demand.
+
+6. Scalability answers whether a system can grow or shrink. Elasticity answers whether that growth or reduction happens automatically.
+
+7. AWS provides infrastructure within minutes, allowing businesses to build, test, modify, deploy, and remove applications quickly without waiting for physical hardware.
+
+8. AWS manages the physical infrastructure, allowing businesses to focus on developing applications instead of maintaining servers, networking equipment, cooling systems, and data centers.
+
+9. AWS manages physical servers, storage hardware, networking equipment, cooling systems, power supply, hardware replacement, and physical security.
+
+10. Go Global in Minutes means businesses can deploy applications in AWS Regions around the world without building their own data centers, allowing faster international expansion and better user experience.
+---
+
+# Concepts I Didn't Understand
+
+None.
+
+---
+
+# Summary
+
+Today I learned the six major benefits of AWS Cloud. AWS replaces fixed infrastructure costs with pay-as-you-go pricing, reducing financial risk. It allows businesses to scale resources according to demand, automatically adjust capacity through elasticity, innovate faster, avoid managing physical infrastructure, and expand globally using AWS's existing infrastructure. I also understood how all these benefits solve different parts of the same business problem rather than being unrelated concepts.
+
+---
+
+# Interview Definition
+
+Cloud computing is the on-demand delivery of IT resources over the internet with pay-as-you-go pricing.
+
+Major AWS Cloud Benefits:
+- Trade fixed expenses for variable expenses.
+
+- Benefit from massive economies of scale.
+
+- Stop guessing capacity.
+- Increase speed and agility.
+
+- Stop spending money running and maintaining data centers.
+
+- Go global in minutes.
+
+---
