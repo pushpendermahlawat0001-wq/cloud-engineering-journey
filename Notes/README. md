@@ -390,14 +390,122 @@ Cloud computing is the on-demand delivery of IT resources over the internet with
 
 Major AWS Cloud Benefits:
 - Trade fixed expenses for variable expenses.
-
 - Benefit from massive economies of scale.
-
 - Stop guessing capacity.
 - Increase speed and agility.
-
 - Stop spending money running and maintaining data centers.
-
 - Go global in minutes.
 
 ---
+
+# Day 4 - AWS Global Infrastructure
+
+Date:
+14 July 2026
+
+Topics Covered:
+- AWS Global Infrastructure
+- High Availability
+- Fault Tolerance
+- AWS Regions
+- Availability Zones
+- Redundancy
+- Resource Isolation
+
+--------------------------------------------------
+
+MAIN NOTES
+
+1. High Availability
+- High Availability means keeping an application accessible with minimal downtime even if one component fails.
+- AWS achieves this by distributing resources across multiple Availability Zones and Regions.
+
+2. Fault Tolerance
+- Fault Tolerance means a system continues operating even if multiple components fail.
+- AWS designs its infrastructure to handle failures without affecting customer applications.
+
+3. AWS Regions
+- AWS Regions are physical geographic locations around the world.
+- Each Region contains multiple Availability Zones.
+- Regions help businesses achieve low latency, global expansion, and disaster recovery.
+
+4. Availability Zones (AZs)
+- Availability Zones are isolated infrastructure locations inside an AWS Region.
+- Each AZ contains one or more data centers.
+- AZs have independent power, networking, and connectivity.
+
+5. Redundancy
+- Redundancy means keeping backup infrastructure and resources so applications remain available during failures.
+
+6. Why AWS Created AZs
+- AWS engineers identified that placing all infrastructure in a single building creates a single point of failure.
+- Physical isolation reduces the risk of simultaneous failures.
+
+--------------------------------------------------
+
+CUE QUESTIONS
+
+1. What is High Availability?
+
+Answer:
+High Availability is the ability of a system to remain accessible with minimal downtime even if one component fails.
+
+--------------------------------------------------
+
+2. What is Fault Tolerance?
+
+Answer:
+Fault Tolerance is the ability of a system to continue operating even if multiple components fail.
+
+--------------------------------------------------
+
+3. What is an AWS Region?
+
+Answer:
+An AWS Region is a physical geographic location that contains multiple Availability Zones and provides low latency and global infrastructure services.
+
+--------------------------------------------------
+
+4. What is an Availability Zone?
+
+Answer:
+An Availability Zone is an isolated infrastructure location inside an AWS Region that contains one or more data centers.
+
+--------------------------------------------------
+
+5. Why are Availability Zones physically isolated?
+
+Answer:
+Physical isolation protects applications from disasters such as power failures, cable cuts, floods, and fire affecting all infrastructure simultaneously.
+
+--------------------------------------------------
+
+6. What is Redundancy?
+
+Answer:
+Redundancy means having backup resources and infrastructure available to maintain service availability during failures.
+
+--------------------------------------------------
+
+7. How does AWS provide High Availability?
+
+Answer:
+AWS distributes resources across multiple Availability Zones and Regions with independent power, networking, and connectivity.
+
+--------------------------------------------------
+
+SUMMARY
+
+Today I learned how AWS designs its global infrastructure to make applications reliable and highly available. AWS uses Regions, Availability Zones, and data centers to prevent failures from affecting customer applications. Availability Zones are physically isolated to reduce risks of simultaneous failures. High Availability focuses on minimal downtime, while Fault Tolerance focuses on surviving multiple failures. AWS infrastructure is designed by solving real engineering and business problems rather than simply providing servers.
+
+--------------------------------------------------
+
+INTERVIEW DEFINITION
+
+AWS Global Infrastructure is a worldwide network of Regions and Availability Zones designed to provide high availability, fault tolerance, low latency, and reliable cloud services for customers across the globe.
+
+--------------------------------------------------
+
+STATUS
+
+Day 4 Completed Successfully.
